@@ -47,9 +47,7 @@
     #design .design-main {
         flex-direction: column; 
     }
-    #design{
-        margin-top: 100px;
-    }
+   
     #design .text-content {
         width: var(--width-rep);;
         padding: 20px; 
