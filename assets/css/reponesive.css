@@ -47,7 +47,9 @@
     #design .design-main {
         flex-direction: column; 
     }
-
+    #design{
+        margin-top: 100px;
+    }
     #design .text-content {
         width: var(--width-rep);;
         padding: 20px; 
@@ -74,6 +76,7 @@
     #design .imgae {
         width: 100%;
         height: 100%;
+
         display: flex;
         justify-content: center;
         align-items: center;
@@ -204,10 +207,7 @@
     #newfeatures .text-content{
         padding: 20px;
     }
-    #newfeatures {
-        
-        margin-top: 100px;
-    }
+   
     #newfeatures img {
         width: 50vh;
     }
