@@ -1,6 +1,9 @@
-@media (max-width: 768px) {
+@media (max-width: 932px) {
     :root{
         --width-rep:100%;
+    }
+    body{
+        width: 100%;
     }
     #header{
        width: var(--width-rep);;
@@ -93,7 +96,7 @@
         height: 52%;
     }
     #feature {
-        padding-top: 148%;
+        padding-top: 162%;
     }
     
     #feature .content-feature{
@@ -149,7 +152,7 @@
 
     /* User */
     #user {
-        padding-top: 235%;
+        padding-top: 255%;
 
     }
     #user .user-shares {
@@ -251,6 +254,10 @@
         font-size: 15px;
     }
 /* footer */
+    #footer {
+        height: 71vh;
+    
+    }
     .footer-main {
        padding: 20px;
        flex-direction: column;
