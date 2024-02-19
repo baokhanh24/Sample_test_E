@@ -204,7 +204,10 @@
     #newfeatures .text-content{
         padding: 20px;
     }
-
+    #newfeatures {
+        
+        margin-top: 100px;
+    }
     #newfeatures img {
         width: 50vh;
     }
