@@ -25,7 +25,7 @@ html {
 #header{
     position: relative;
     padding-top: 57.8%;
-    background:url('/assets/img/background.png') top center / cover no-repeat;
+    background:url('https://github.com/baokhanh24/Sample_test_E/blob/main/assets/img/background.png?raw=true') top center / cover no-repeat;
    
     
 }
@@ -169,7 +169,7 @@ html {
 
 #feature {
     position: relative;
-    background:url('/assets/img/background2.png') top center / cover no-repeat;
+    background:url('https://github.com/baokhanh24/Sample_test_E/blob/main/assets/img/background2.png?raw=true') top center / cover no-repeat;
     padding-top: 46%;
    
 }
@@ -268,7 +268,7 @@ html {
 
 #user{
     position: relative;
-    background: url('/assets/img/background3.png') top center / cover no-repeat;
+    background: url('https://github.com/baokhanh24/Sample_test_E/blob/main/assets/img/background3.png?raw=true') top center / cover no-repeat;
     padding-top:45%;    
 }
 #user .user-main{
